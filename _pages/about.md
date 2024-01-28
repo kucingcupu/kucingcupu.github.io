@@ -3,7 +3,7 @@ layout: page
 title: Tentang Kucing Cupu 
 permalink: /about
 comments: false
-image: assets/images/logo5.png
+image: assets/images/logo.png
 imageshadow: true
 ---
 Bismillah, Alhamdulillah, Laa ilaaha illa Allah, Allahumma Sholli'ala Muhammad.
