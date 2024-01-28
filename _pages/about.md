@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Tentang Kucing Cupu 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/logo5.jpg
 imageshadow: true
 ---
+Bismillah, Alhamdulillah, Laa ilaaha illa Allah, Allahumma Sholli'ala Muhammad.
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Selanjutnya kami juga berterima kasih kepada WowThemes.net yang telah menyediakan template blog yang menarik, menjadikan kami tidak bersusah payah dalam mengemas tulisan kami.
+
+Kucing Cupu kami sajikan atas opini kami tentang segala hal.
 
 <a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
