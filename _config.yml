@@ -11,6 +11,7 @@ mailchimp-list: 'https://github.us21.list-manage.com/subscribe/post?u=5d61908c77
 include: ["_pages"]
 permalink: /:title/
 email: bondanvidio@gmail.com
+formspree: f/mvoezddg
 
 # Authors
 authors:
