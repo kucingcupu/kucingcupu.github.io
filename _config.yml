@@ -40,7 +40,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-google_search_console_verification_file
+  - jekyll-Google Search_console_verification_file
     
 # Archives
 jekyll-archives:
