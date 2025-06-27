@@ -156,4 +156,4 @@ DEPENDENCIES
   wdm (>= 0.1.0)
 
 BUNDLED WITH
-   3.6.9
+   3.3.3
