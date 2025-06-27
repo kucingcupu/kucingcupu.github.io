@@ -68,7 +68,9 @@ adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
-google_site_verification: YdllxrXCo9h5HrO0O8yTLRd7-ifBqXgX4QHGLhgnBMI
+# Google Search Console verification
+Google_Search_console:
+  verification_file_code: YdllxrXCo9h5HrO0O8yTLRd7-ifBqXgX4QHGLhgnBMI
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
